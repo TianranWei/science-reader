@@ -5,3 +5,4 @@ streamlit==1.29.0
 PyMuPDF
 tiktoken
 openai
+faiss-gpu
